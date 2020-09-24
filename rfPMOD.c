@@ -1,6 +1,6 @@
 /*===================================CPEG222====================================
- * Program:		Project 1
- * Authors: 	Lianna Joseph & Divya Shah 
+ * Program:		RFTransciever
+ * Authors: 	Brandon Brooks
  * Date: 		9/12/2019
  * Description: Project 1 
  * The program waits for a BTN press or SWT with the following results:
