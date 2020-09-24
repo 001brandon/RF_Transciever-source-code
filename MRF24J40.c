@@ -1,5 +1,4 @@
 // Driver for Microchip MRF24J40 802.15.4 radio hardware
-// New parts (c) 2010-2012 nerdfever.com
 // Originally based on Microchip MiWi DE v.3.1.3, 5/28/2010 (c) Microchip
 
 #include <string.h>			// memset()
